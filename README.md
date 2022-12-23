@@ -1,2 +1,2 @@
 # SampleApp
-to learn Rails &amp; Angular make chat's app
+To learn Rail and Angular makes chat's app.
