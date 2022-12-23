@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To learn Rails and Angular make chat's app.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[*Quickstart: Compose and Rails*](https://github.com/docker/awesome-compose/tree/master/official-documentation-samples/rails/) is used as reference for Rails and Docker settings.
